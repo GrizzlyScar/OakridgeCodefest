@@ -1,0 +1,7 @@
+From the Model GDrive Link download the Model 2 and upload it to your Jupyter Notebook
+Download res10_300x300_ssd_iter_140000.caffemodel and deploy.prototxt, and upload them to the Jupyter Notebook
+Download 'Oakridge Codefest Database Maker Final Submission', and 'Oakridge Codefest Mask Detector Final Submission' and upload these notebooks to your Jupyter Notebook
+In 'Oakridge Codefest Database Maker Final Submission' follow what the comment says
+In 'Oakridge Codefest Mask Detector Final Submission' follow what the comment says under the heading "Mask Detector"
+Run the cell right below the heading "Mask Detector"
+In order to see how the Database Maker works, put any images into the location that you put for the directory variable and run the first two cells. Keep changing the number of files in the folder or keep them the same. After 1 minute stop the kernel and then run the 3rd cell to see the Panda Dataframe.
